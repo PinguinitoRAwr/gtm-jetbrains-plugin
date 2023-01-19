@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gtm-intellij.iml" filepath="$PROJECT_DIR$/gtm-intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij.main.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij.test.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij.test.iml" />
     </modules>
   </component>
 </project>
